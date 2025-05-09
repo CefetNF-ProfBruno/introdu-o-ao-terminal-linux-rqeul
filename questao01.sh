@@ -1,4 +1,4 @@
 #!/bin/bash
-mkdir joao 
-mkdir maria
+cd~
+mkdir joao maria
 ### Nao apague a linha acima! ###
